@@ -1,6 +1,7 @@
 # Wavecon-Telecom-Analysis
 ![Uploading image.png…]()
 
+
 Overview
 The successful completion of the Codebasics Virtual Internship Task! 🎉👨‍💻 Diving deep into the 5G Impact Dashboard.
 
@@ -16,7 +17,7 @@ Examined the impact of 5G on specific plans, advising on whether to continue, di
 Discontinued Plans
 Investigated plans that were discontinued post-5G launch, shedding light on the reasons behind such decisions.
 Usage :
-Clone the repository:git clone https://github.com/RavinaKarnik/Wavecon-Telecom-Analysis
+Clone the repository:git clone (https://github.com/Sana-Afreen438/Wavecon-Telecom-Analysis/edit/main/README.md)
 Navigate to the respective reports to access the analysis and insights.
 Customize the reports as per your requirements by modifying the data sources or adding additional calculations.
 Contributing
