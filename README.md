@@ -32,3 +32,6 @@ The AtliQ Hardware dataset was used for this project, providing valuable wavecon
 Power bi
 Excel
 SQL
+
+# Power BI Dashboard:
+https://app.powerbi.com/view?r=eyJrIjoiYjUyNWE4M2ItYzk2My00ZDg0LWFhMGUtNTdmYWYyNDJlZTA0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
