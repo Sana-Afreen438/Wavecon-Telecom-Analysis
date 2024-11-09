@@ -18,7 +18,7 @@ Discontinued Plans
 Investigated plans that were discontinued post-5G launch, shedding light on the reasons behind such decisions.
 
 # Usage :
-1. Clone the repository:git clone (https://github.com/Sana-Afreen438/Wavecon-Telecom-Analysis/edit/main/README.md)
+1. Clone the repository:git clone [(https://github.com/Sana-Afreen438/Wavecon-Telecom-Analysis/edit/main/README.md)](https://github.com/Sana-Afreen438/Wavecon-Telecom-Analysis)
 2. Navigate to the respective reports to access the analysis and insights.
 3. Customize the reports as per your requirements by modifying the data sources or adding additional calculations.
 
