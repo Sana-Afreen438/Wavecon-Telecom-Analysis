@@ -1,3 +1,5 @@
+# ![image](https://github.com/user-attachments/assets/ae2b0dad-0b6d-4539-9db3-61835de6774e)
+
 # Overview
 The successful completion of the Codebasics Virtual Internship Task! 🎉👨‍💻 Diving deep into the 5G Impact Dashboard.
 
